@@ -14,20 +14,20 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class Student 
 {
-    private String name;
+    private String fname;
 
     /**
      * @return the name
      */
-    public String getName() {
-        return name;
+    public String getFname() {
+        return fname;
     }
 
     /**
      * @param givenName the name to set
      */
     public void setName(String givenName) {
-        name = givenName;
+        fname = givenName;
     }
     
     
