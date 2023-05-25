@@ -24,10 +24,10 @@ public class Student
     }
 
     /**
-     * @param givenName the name to set
+     * @param givenNames the name to set
      */
-    public void setName(String givenName) {
-        name = givenName;
+    public void setName(String givenNames) {
+        name = givenNames;
     }
     
     
